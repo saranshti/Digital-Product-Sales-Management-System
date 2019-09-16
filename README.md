@@ -12,4 +12,4 @@
 
 5.Open NetBeans and in that click on file>open Project>Product Sales
 
-6.Run the Main.java 
+6.Run the Main.java.
